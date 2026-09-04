@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    background: #e8f0f8;
+    margin: 0;
+    padding: 40px;
+}
+.resume {
+    max-width: 650px;
+    margin: auto;
+    background: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 5px 30px #aaa;
+}
+h1 {
+    text-align: center;
+    color: #1565c0;
+}
+h2 {
+    color: #1565c0;
+    padding-bottom: 5px; 
+}
+p {
+    line-height: 1.6;
+}
+button {
+    padding: 10px 20px;
+    border: 0;
+    border-radius: 8px;
+    background: #1565c0;
+    color: white;
+}
+.role {
+    text-align:center;
+    color: #e67e22;
+}
+body {
+    background: #f2f6f9;
+    font-family: Arial, sans-serif;
+}
